@@ -1,5 +1,4 @@
 # PR-15
-Выполнил: Янкевич ДВ Группа: ЭВТ-71  
 Игровой движок: Unity 2021.3.9f1  
 Название работы: Изучение Tilemap  
 ![grid3](https://user-images.githubusercontent.com/119736937/205517214-d6d33ea3-f5a5-4095-bf29-ff79a7a22323.PNG)  
